@@ -1,23 +1,41 @@
-# Change-IP-address-3-seconds
+# 🌐 Change IP Address Every 3 Seconds via TOR
 
+Simple script/tool to **automatically change your public IP address every 3 seconds** using the TOR network.  
+Useful for **anonymity**, **web scraping**, and **bypassing IP-based restrictions**.
 
-sudo pip install tor   
+---
 
-sudo systemctl start tor 
+## 📸 Preview
 
-sudp apt install python3-pip
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60b937f1-86e0-408c-bedb-0c96e4f1bfac" alt="TOR Terminal Screenshot" width="600"/>
+</p>
 
-sudo apt install tornet
+---
 
-setting ur browser
+## ⚙️ Requirements
 
-goto proxy 
+Make sure your system has:
 
-(https://github.com/user-attachments/assets/60b937f1-86e0-408c-bedb-0c96e4f1bfac)
+- Python 3.x
+- TOR installed and running
+- `tornet` (Python tool to control TOR)
 
-sudo tornet --interval 3 --count 0
+---
 
-(https://github.com/user-attachments/assets/fcf81e1e-9c04-422b-9eb9-3416bd2c9a53)
+## 🧪 Installation & Setup
 
+Copy-paste these commands into your terminal:
 
+```bash
+# Install pip if missing
+sudo apt install python3-pip -y
 
+# Install TOR
+sudo apt install tor -y
+
+# Start the TOR service
+sudo systemctl start tor
+
+# Install tornet
+sudo pip install tornet
