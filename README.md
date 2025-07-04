@@ -71,5 +71,5 @@ Keterangan:
 
     --count 0: Jalankan tanpa batas (infinite loop)
 sudo tornet --interval 3 --count 0
+![image](https://github.com/user-attachments/assets/045f005d-40b2-4a19-94f4-b333b61486ab)
 
-![image](https://github.com/user-attachments/assets/867ba920-0f55-486e-a693-595742ca1ac4)
