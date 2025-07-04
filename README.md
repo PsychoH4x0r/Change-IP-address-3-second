@@ -73,6 +73,6 @@ Keterangan:
 sudo tornet --interval 3 --count 0
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/ace97bc4-8229-46c5-beb1-5f7e3e9c720f)
+  <img src="https://github.com/user-attachments/assets/ace97bc4-8229-46c5-beb1-5f7e3e9c720f
 " alt="TOR Terminal Screenshot" width="600"/>
 </p>
