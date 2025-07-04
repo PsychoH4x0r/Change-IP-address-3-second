@@ -72,7 +72,4 @@ Keterangan:
     --count 0: Jalankan tanpa batas (infinite loop)
 sudo tornet --interval 3 --count 0
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ace97bc4-8229-46c5-beb1-5f7e3e9c720f
-" alt="TOR Terminal Screenshot" width="600"/>
-</p>
+![image](https://github.com/user-attachments/assets/a551d6b3-1f85-49fd-ba33-fb5cc16bf8e6)
