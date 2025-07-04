@@ -27,7 +27,7 @@ Make sure your system has:
 
 Copy-paste these commands into your terminal:
 
-```bash
+bash
 # Install pip if missing
 sudo apt install python3-pip -y
 
@@ -71,5 +71,8 @@ Keterangan:
 
     --count 0: Jalankan tanpa batas (infinite loop)
 sudo tornet --interval 3 --count 0
-![image](https://github.com/user-attachments/assets/045f005d-40b2-4a19-94f4-b333b61486ab)
 
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/ace97bc4-8229-46c5-beb1-5f7e3e9c720f)
+" alt="TOR Terminal Screenshot" width="600"/>
+</p>
